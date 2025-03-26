@@ -4,7 +4,7 @@ import requests
 import sys
 import os
 
-API_TOKEN = "skS5fWcYWCjCNELhDJM6x6vsH0YGb3mB3jqHd32ASH32RvU119POX7XGz3eXnhGRXoO1jfYOc5LyuI1Yb01E3b"
+API_TOKEN = "Apii"
 
 def fetch_data(endpoint):
     request_url = f"https://api.ataix.kz{endpoint}"
